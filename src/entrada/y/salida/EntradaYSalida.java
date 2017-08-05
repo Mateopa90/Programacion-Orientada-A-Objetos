@@ -17,6 +17,9 @@ public class EntradaYSalida {
         System.out.println("DIGITE UN CARACTER: ");
         caracter = entrada.next().charAt(0);
         System.out.println(caracter);
+       
+       System.out.println(" COMO PUEDE VER SE IMPRIMIO LA CADENA Y EL CARACTER DIGITADO.");
+        
     }
     
 }
